@@ -1,0 +1,4 @@
+openai=1.45.1
+flask=3.0.3
+transfromes=4.44.2
+python 3.12.x
