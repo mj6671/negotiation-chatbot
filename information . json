@@ -1,1 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "max_price": 1000,
+      "min_price": 700
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "category": "Electronics",
+      "max_price": 1500,
+      "min_price": 1000
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "category": "Accessories",
+      "max_price": 200,
+      "min_price": 100
+    }
+  ]
+}
 
